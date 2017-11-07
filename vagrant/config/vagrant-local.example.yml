@@ -1,0 +1,25 @@
+# Your personal GitHub token
+github_token: <your-personal-github-token>
+# Read more: https://github.com/blog/1509-personal-api-tokens
+# You can generate it here: https://github.com/settings/tokens
+
+# Guest OS timezone
+timezone: Europe/Kiev
+
+# Are we need check box updates for every 'vagrant up'?
+box_check_update: false
+
+# Virtual machine name
+machine_name: bank
+
+# Virtual machine IP
+ip: 192.168.33.10
+
+# Virtual machine CPU cores number
+cpus: 2
+
+# Virtual machine RAM
+memory: 1024
+
+# Current domain name
+domain: bank.local
