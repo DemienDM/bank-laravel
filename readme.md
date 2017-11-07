@@ -76,7 +76,7 @@ app/Console/Kernel
 app/Services/DepositManager
 ```
 
-* Воборка депозитов для расчетов
+* Выборка депозитов для расчетов
 ```
 app/Console/Commands/{
     CommissionCommand,
